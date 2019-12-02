@@ -1,0 +1,158 @@
+Year,City,Sport,Athlete,Country,Gender,Event,Medal
+1994,Lillehammer,Biathlon,"TARASOV, Sergei",RUS,Men,10KM,Bronze
+1994,Lillehammer,Biathlon,"TCHEPIKOV, Sergei",RUS,Men,10KM,Gold
+1994,Lillehammer,Biathlon,"TARASOV, Sergei",RUS,Men,20KM,Gold
+1994,Lillehammer,Biathlon,"DRATSCHEV, Vladimir",RUS,Men,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"KIRIENKO, Valeri",RUS,Men,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"TARASOV, Sergei",RUS,Men,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"TCHEPIKOV, Sergei",RUS,Men,4X7.5KM Relay,Silver
+1994,Lillehammer,Skating,"PLATOV, Evgeny",RUS,Men,Ice Dancing,Gold
+1994,Lillehammer,Skating,"ZHULIN, Aleksandr",RUS,Men,Ice Dancing,Silver
+1994,Lillehammer,Skating,"URMANOV, Aleksei",RUS,Men,Individual,Gold
+1994,Lillehammer,Skating,"GRINKOV, Sergey",RUS,Men,Pairs,Gold
+1994,Lillehammer,Skating,"DMITRIYEV, Artur",RUS,Men,Pairs,Silver
+1994,Lillehammer,Skating,"KLEVCHENYA, Sergey",RUS,Men,1000M,Bronze
+1994,Lillehammer,Skating,"GOLUBEV, Aleksandr",RUS,Men,500M,Gold
+1994,Lillehammer,Skating,"KLEVCHENYA, Sergey",RUS,Men,500M,Silver
+1994,Lillehammer,Skiing,"SHUPLETSOV, Sergei",RUS,Men,Moguls,Silver
+1998,Nagano,Biathlon,"DRATSCHEV, Vladimir",RUS,Men,4X7.5KM Relay,Bronze
+1998,Nagano,Biathlon,"MAIGOUROV, Victor",RUS,Men,4X7.5KM Relay,Bronze
+1998,Nagano,Biathlon,"MOUSLIMOV, Pavel",RUS,Men,4X7.5KM Relay,Bronze
+1998,Nagano,Biathlon,"TARASOV, Sergei",RUS,Men,4X7.5KM Relay,Bronze
+1998,Nagano,Ice Hockey,"BURE, Pavel",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"BURE, Valeri",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"CHEVTSOV, Oleg",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"FEDOROV, Sergei",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"GONCHAR, Sergei",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"GOUSSAROV, Aleksei",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"JITNIK, Aleksei",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"KAMENSKY, Valeri",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"KASPARAITIS, Darius",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"KOVALENKO, Andrei",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"KRAVCHUK, Igor",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"KRIVOKRASSOV, Serguei",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"MIRONOV, Boris",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"MIRONOV, Dmitri",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"MOROZOV, Alexei",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"NEMTCHINOV, Serguei",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"SHTALENKOV, Mikhail",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"TITOV, Guerman",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"TREFILOV, Andrei",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"YASHIN, Alexei",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"YUSHKEVICH, Dmitri",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"ZELEPOUKINE, Valeri",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"ZHAMNOV, Alexey",RUS,Men,Ice Hockey,Silver
+1998,Nagano,Skating,"PLATOV, Evgeny",RUS,Men,Ice Dancing,Gold
+1998,Nagano,Skating,"OVSYANNIKOV, Oleg",RUS,Men,Ice Dancing,Silver
+1998,Nagano,Skating,"KULIK, Ilia",RUS,Men,Individual,Gold
+1998,Nagano,Skating,"DMITRIYEV, Artur",RUS,Men,Pairs,Gold
+1998,Nagano,Skating,"SIKHARULIDZE, Anton",RUS,Men,Pairs,Silver
+1998,Nagano,Skiing,"STOLJAROV, Valerij",RUS,Men,Individual,Bronze
+2002,Salt Lake City,Biathlon,"MAIGOUROV, Victor",RUS,Men,20KM,Bronze
+2002,Salt Lake City,Ice Hockey,"AFINOGENOV, Maxim",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"BRYZGALOV, Ilja",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"BURE, Pavel",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"BURE, Valeri",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"DATSYUK, Pavel",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"FEDOROV, Sergei",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"GONCHAR, Sergei",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"KASPARAITIS, Darius",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"KHABIBULIN, Nikolai",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"KOVALCHUK, Ilya",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"KOVALEV, Alexei",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"KRAVCHUK, Igor",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"KVASHA, Oleg",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"LARIONOV, Igor",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"MALAKHOV, Vladimir",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"MARKOV, Daniil",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"MIRONOV, Boris",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"NIKOLISHIN, Andrei",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"PODOMATSKY, Yegor",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"SAMSONOV, Sergei",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"TVERDOVSKIY, Oleg",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"YASHIN, Alexei",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"ZHAMNOV, Alexey",RUS,Men,Ice Hockey,Bronze
+2002,Salt Lake City,Skating,"AVERBUKH, Ilia",RUS,Men,Ice Dancing,Silver
+2002,Salt Lake City,Skating,"YAGUDIN, Alexei",RUS,Men,Individual,Gold
+2002,Salt Lake City,Skating,"PLYUSHCHENKO, Evgeny",RUS,Men,Individual,Silver
+2002,Salt Lake City,Skating,"SIKHARULIDZE, Anton",RUS,Men,Pairs,Gold
+2002,Salt Lake City,Skiing,"IVANOV, Mikhail",RUS,Men,50KM,Gold
+2006,Turin,Biathlon,"KRUGLOV, Nikolay",RUS,Men,4X7.5KM Relay,Silver
+2006,Turin,Biathlon,"ROSTOVTSEV, Pavel",RUS,Men,4X7.5KM Relay,Silver
+2006,Turin,Biathlon,"TCHEPIKOV, Sergei",RUS,Men,4X7.5KM Relay,Silver
+2006,Turin,Biathlon,"TCHEREZOV, Ivan",RUS,Men,4X7.5KM Relay,Silver
+2006,Turin,Bobsleigh,"EGOROV, Filipp",RUS,Men,Four-Man,Silver
+2006,Turin,Bobsleigh,"SELIVERSTOV, Alexei",RUS,Men,Four-Man,Silver
+2006,Turin,Bobsleigh,"VOEVODA, Alexey",RUS,Men,Four-Man,Silver
+2006,Turin,Bobsleigh,"ZOUBKOV, Alexandre",RUS,Men,Four-Man,Silver
+2006,Turin,Luge,"DEMTSCHENKO, Albert",RUS,Men,Singles,Silver
+2006,Turin,Skating,"KOSTOMAROV, Roman",RUS,Men,Ice Dancing,Gold
+2006,Turin,Skating,"PLYUSHCHENKO, Evgeny",RUS,Men,Individual,Gold
+2006,Turin,Skating,"MARININ, Maxim",RUS,Men,Pairs,Gold
+2006,Turin,Skating,"DOROFEYEV, Dmitry",RUS,Men,500M,Silver
+2006,Turin,Skiing,"DEMENTIEV, Eugeni",RUS,Men,50KM,Silver
+2006,Turin,Skiing,"DEMENTIEV, Eugeni",RUS,Men,Combined 15 + 15KM Mass Start,Gold
+2006,Turin,Skiing,"ALYPOV, Ivan",RUS,Men,Team Sprint,Bronze
+2006,Turin,Skiing,"ROTCHEV, Vassili",RUS,Men,Team Sprint,Bronze
+2006,Turin,Skiing,"LEBEDEV, Vladimir",RUS,Men,Aerials,Bronze
+2010,Vancouver,Biathlon,"USTYUGOV, Evgeny",RUS,Men,15KM Mass Start,Gold
+2010,Vancouver,Biathlon,"SHIPULIN, Anton",RUS,Men,4X7.5KM Relay,Bronze
+2010,Vancouver,Biathlon,"TCHEREZOV, Ivan",RUS,Men,4X7.5KM Relay,Bronze
+2010,Vancouver,Biathlon,"TCHOUDOV, Maxim",RUS,Men,4X7.5KM Relay,Bronze
+2010,Vancouver,Biathlon,"USTYUGOV, Evgeny",RUS,Men,4X7.5KM Relay,Bronze
+2010,Vancouver,Bobsleigh,"VOEVODA, Alexey",RUS,Men,Two-Man,Bronze
+2010,Vancouver,Bobsleigh,"ZUBKOV, Alexsandr",RUS,Men,Two-Man,Bronze
+2010,Vancouver,Bobsleigh,"TRETYAKOV, Alexander",RUS,Men,Individual,Bronze
+2010,Vancouver,Skating,"SHABALIN, Maxim",RUS,Men,Ice Dancing,Bronze
+2010,Vancouver,Skating,"PLYUSHCHENKO, Evgeny",RUS,Men,Individual,Silver
+2010,Vancouver,Skating,"SKOBREV, Ivan",RUS,Men,10000M,Silver
+2010,Vancouver,Skating,"SKOBREV, Ivan",RUS,Men,5000M,Bronze
+2010,Vancouver,Skiing,"KRIUKOV, Nikita",RUS,Men,Sprint 1.5KM,Gold
+2010,Vancouver,Skiing,"PANZHINSKIY, Alexander",RUS,Men,Sprint 1.5KM,Silver
+2010,Vancouver,Skiing,"MORILOV, Nikolay",RUS,Men,Team Sprint,Bronze
+2010,Vancouver,Skiing,"PETUKHOV, Alexey",RUS,Men,Team Sprint,Bronze
+2014,Sochi,Biathlon,"GARANICHEV, Evgeniy",RUS,Men,20KM,Bronze
+2014,Sochi,Biathlon,"MALYSHKO, Dmitry",RUS,Men,4X7.5KM Relay,Gold
+2014,Sochi,Biathlon,"SHIPULIN, Anton",RUS,Men,4X7.5KM Relay,Gold
+2014,Sochi,Biathlon,"USTYUGOV, Evgeny",RUS,Men,4X7.5KM Relay,Gold
+2014,Sochi,Biathlon,"VOLKOV, Alexey",RUS,Men,4X7.5KM Relay,Gold
+2014,Sochi,Bobsleigh,"NEGODAYLO, Alexey",RUS,Men,Four-Man,Gold
+2014,Sochi,Bobsleigh,"TRUNENKOV, Dmitry",RUS,Men,Four-Man,Gold
+2014,Sochi,Bobsleigh,"VOEVODA, Alexey",RUS,Men,Four-Man,Gold
+2014,Sochi,Bobsleigh,"ZUBKOV, Alexander",RUS,Men,Four-Man,Gold
+2014,Sochi,Bobsleigh,"VOEVODA, Alexey",RUS,Men,Two-Man,Gold
+2014,Sochi,Bobsleigh,"ZUBKOV, Alexander",RUS,Men,Two-Man,Gold
+2014,Sochi,Bobsleigh,"TRETYAKOV, Alexander",RUS,Men,Individual,Gold
+2014,Sochi,Luge,"ANTONOV, Vladislav",RUS,Men,Mixed Relay,Silver
+2014,Sochi,Luge,"DEMTSCHENKO, Albert",RUS,Men,Mixed Relay,Silver
+2014,Sochi,Luge,"DENISYEV, Alexander",RUS,Men,Mixed Relay,Silver
+2014,Sochi,Luge,"DEMTSCHENKO, Albert",RUS,Men,Singles,Silver
+2014,Sochi,Skating,"KATSALAPOV, Nikita",RUS,Men,Ice Dancing,Bronze
+2014,Sochi,Skating,"KLIMOV, Fedor",RUS,Men,Pairs,Silver
+2014,Sochi,Skating,"TRANKOV, Maxim",RUS,Men,Pairs,Gold
+2014,Sochi,Skating,"KATSALAPOV, Nikita",RUS,Men,Team,Gold
+2014,Sochi,Skating,"KLIMOV, Fedor",RUS,Men,Team,Gold
+2014,Sochi,Skating,"PLYUSHCHENKO, Evgeny",RUS,Men,Team,Gold
+2014,Sochi,Skating,"SOLOVIEV, Dmitri",RUS,Men,Team,Gold
+2014,Sochi,Skating,"TRANKOV, Maxim",RUS,Men,Team,Gold
+2014,Sochi,Skating,"AN, Victor",RUS,Men,1000M,Gold
+2014,Sochi,Skating,"GRIGOREV, Vladimir",RUS,Men,1000M,Silver
+2014,Sochi,Skating,"AN, Victor",RUS,Men,1500M,Bronze
+2014,Sochi,Skating,"AN, Victor",RUS,Men,5000M Relay,Gold
+2014,Sochi,Skating,"ELISTRATOV, Semion",RUS,Men,5000M Relay,Gold
+2014,Sochi,Skating,"GRIGOREV, Vladimir",RUS,Men,5000M Relay,Gold
+2014,Sochi,Skating,"ZAKHAROV, Ruslan",RUS,Men,5000M Relay,Gold
+2014,Sochi,Skating,"AN, Victor",RUS,Men,500M,Gold
+2014,Sochi,Skiing,"BESSMERTNYKH, Alexander",RUS,Men,4X10KM Relay,Silver
+2014,Sochi,Skiing,"JAPAROV, Dmitriy",RUS,Men,4X10KM Relay,Silver
+2014,Sochi,Skiing,"LEGKOV, Alexander",RUS,Men,4X10KM Relay,Silver
+2014,Sochi,Skiing,"VYLEGZHANIN, Maxim",RUS,Men,4X10KM Relay,Silver
+2014,Sochi,Skiing,"CHERNOUSOV, Ilia",RUS,Men,50KM,Bronze
+2014,Sochi,Skiing,"LEGKOV, Alexander",RUS,Men,50KM,Gold
+2014,Sochi,Skiing,"VYLEGZHANIN, Maxim",RUS,Men,50KM,Silver
+2014,Sochi,Skiing,"KRIUKOV, Nikita",RUS,Men,Team Sprint,Silver
+2014,Sochi,Skiing,"VYLEGZHANIN, Maxim",RUS,Men,Team Sprint,Silver
+2014,Sochi,Skiing,"SMYSHLYAEV, Alexandr",RUS,Men,Moguls,Bronze
+2014,Sochi,Skiing,"WILD, Vic",RUS,Men,Giant Parall.S.,Gold
+2014,Sochi,Skiing,"WILD, Vic",RUS,Men,Parallel Slalom,Gold
+2014,Sochi,Skiing,"OLYUNIN, Nikolay",RUS,Men,Snowboard Cross,Silver
